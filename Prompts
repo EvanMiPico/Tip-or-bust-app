@@ -1,0 +1,19 @@
+A app with dark gritty gaming aesthetic, all the screens, animations, the works.
+
+Here's **Tip or Bust** prototype — fully interactive, matching your mockup aesthetic. Here's what's built:
+
+**6 fully navigable screens:**
+- **Dashboard** — Live countdown timer, daily hustle challenge card, mini heat map, top zones, recent order feed
+- **Heat Zones** — Interactive 8×8 color-coded tip grid with zone detail pop-up, platform filters, and a "you are here" marker
+- **Log Order** — Full form with platform picker, payout + distance sliders, 5-star tip rating, and quick tag chips — submits with coin reward
+- **Rankings** — Podium display for top 3, full leaderboard with progress bars and coin counts
+- **Side Hustles** — Stake.us card, survey rewards, challenge detail overlay, driver perks list
+- **Profile** — Stats, level progress bar, badge grid, account settings
+
+**Visual details matching your mockups:**
+- Dark ember particle animation floating up from the bottom
+- Scanline texture overlay for that gritty screen feel
+- Cinzel + Barlow Condensed fonts for the game UI energy
+- Gold shimmer on earnings, glow pulse on avatar ring, fire flicker on challenge card, countdown timer pulse
+- Fire/flame decorations on challenge cards
+- Full BDP character header with earnings + coin pills
